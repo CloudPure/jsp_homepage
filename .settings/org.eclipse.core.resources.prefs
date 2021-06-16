@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/ajax/ajax_proxy.jsp=UTF-8
+encoding//WebContent/bootstrap/template.jsp=UTF-8
+encoding//WebContent/grammer/pageDirective.jsp=UTF-8
+encoding//WebContent/hello.jsp=UTF-8
+encoding//WebContent/inc/header.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/member=UTF-8
+encoding//WebContent/member/join.jsp=UTF-8
+encoding//WebContent/member/list.jsp=UTF-8
+encoding//WebContent/member/login.jsp=UTF-8
+encoding//WebContent/member/view.jsp=UTF-8
+encoding//WebContent/notice/list.jsp=UTF-8
+encoding//WebContent/notice/modify.jsp=UTF-8
+encoding//WebContent/notice/view.jsp=UTF-8
+encoding//WebContent/notice/write.jsp=UTF-8
+encoding/<project>=UTF-8
